@@ -1,0 +1,10 @@
+__pycache__
+own-bootlaoder
+grubblogpost
+*.iso
+*.bak
+*.dd
+test-vm/disk.img
+.mypy_cache
+blogpost/
+grub/
