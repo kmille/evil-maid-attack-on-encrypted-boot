@@ -1,4 +1,4 @@
-## PoC: Implementing evil maid attack on encrpyted /boot
+## PoC: Implementing evil maid attack on encrypted /boot
 
 TLDR: a proof of concept that backdoors stage 1.5 (core.img) of grub2 bootloader to dump the full disk encrpytion password to disk. I gave a talk about it at GPN20. You can find my slides in the slides directory. The recordings can be watchd [here](https://www.youtube.com/watch?v=5HCZXWfIk5Y) and [here](https://media.ccc.de/v/gpn20-32-poc-implementing-evil-maid-attack-on-encrypted-boot).
 
